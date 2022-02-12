@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner.TestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-12T11:42:26" hostname="DESKTOP-39CJFFC" time="2.866">
+  <properties/>
+  <testcase name="runTest" classname="TestRunner.TestRunner" time="2.866"/>
+  <system-out><![CDATA[12
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
